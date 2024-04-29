@@ -1,0 +1,19 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+img{
+image-resolution: 100%;
+}
+    ul{
+        list-style-type: none;
+        margin: 9px;
+        padding: 0;
+        background-color: rgb(192, 189, 189);
+    }
+    li{
+        display: inline;
+    }
+.sec-0{
+    text-align: center;
+}
